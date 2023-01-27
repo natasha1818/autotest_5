@@ -76,7 +76,7 @@ class Test {
         val amountOfTransfer = 60000
 
         val result = calculationAmount(amount,amountOfTransfer)
-        assertEquals(0,result)
+        assertEquals(10,result)
 
         }
 
